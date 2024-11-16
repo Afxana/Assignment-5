@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Assignment5</string>
+
+    <string-array name="food_array">
+        <item>Cappuccino</item>
+        <item>Latte</item>
+        <item>Americano</item>
+        <item>Espresso</item>
+        <item>Mocha</item>
+        <item>Flat white</item>
+        <item>Cold Brew</item>
+        <item>Turkish</item>
+        <item>Irish</item>
+        <item>Butterscotch</item>
+    </string-array>
+
+    <string-array name="food_array_subtitle">
+        <item>A cappuccino is a classic Italian coffee drink made with equal parts espresso, steamed milk, and milk foam, creating a rich and creamy balance of flavors. Its name comes from the Capuchin friars, inspired by the drinks light-brown color resembling their robes.</item>
+        <item>A latte is a creamy coffee drink made with a shot of espresso and a larger portion of steamed milk, topped with a thin layer of milk foam. It is smoother and less strong than a cappuccino, making it a popular choice for those who prefer a milder coffee flavor.</item>
+        <item>An Americano is a simple coffee drink made by diluting a shot of espresso with hot water, resulting in a smooth, milder flavor similar to black coffee. It is believed to have originated during World War II when American soldiers added water to espresso to mimic the drip coffee they were used to back home.</item>
+        <item>An espresso is a concentrated coffee brewed by forcing hot water through finely-ground coffee beans under high pressure, resulting in a rich, bold flavor with a creamy layer called cream on top. It serves as the base for many coffee drinks, such as lattes, cappuccinos, and americano.</item>
+        <item>A mocha is a chocolate-flavored coffee drink made with espresso, steamed milk, and chocolate syrup or powder, often topped with whipped cream. Its a sweeter and indulgent variation of a latte, combining the rich flavors of coffee and chocolate.</item>
+        <item>A flat white is a coffee drink made with a shot of espresso and steamed milk, featuring a velvety foam texture without the thick foam layer found in a cappuccino. Originating in Australia or New Zealand, it offers a strong coffee flavor with a smooth, creamy finish.</item>
+        <item>A cold brew is a refreshing coffee drink made by steeping coarse coffee grounds in cold water for 12–24 hours, resulting in a smooth, low-acidity beverage. Unlike iced coffee, it is never heated, offering a naturally sweeter and mellow flavor profile.</item>
+        <item>An Irish coffee is a cocktail made with hot coffee, Irish whiskey, sugar, and a layer of cream on top. Its a warm, comforting drink known for its combination of rich coffee flavor and the smooth kick of whiskey, often enjoyed as an after-dinner treat.</item>
+        <item>A butterscotch coffee drink combines the rich, buttery flavor of butterscotch with the boldness of espresso or brewed coffee. It is typically made by adding butterscotch syrup or sauce to hot coffee and can be topped with whipped cream or a drizzle of butterscotch. This indulgent coffee variation is perfect for those who enjoy sweet, dessert-like drinks.</item>
+        <item>Turkish coffee is a traditional coffee preparation method that uses finely ground coffee beans, sugar (optional), and water, all brewed together in a special pot over low heat. The coffee is unfiltered, resulting in a thick, rich brew with a layer of grounds at the bottom of the cup, often served with a glass of water and sometimes accompanied by a sweet treat.</item>
+    </string-array>
+</resources>
